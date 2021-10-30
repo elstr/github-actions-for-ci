@@ -12,6 +12,6 @@
 - Similar to the upload action to send artifacts to the storage, we'll use another action built by GitHub to download these previously uploaded artifacts from the build job: actions/download-artifact
 
 - workflows can be configured to run:
-	Using events from GitHub
-  At a scheduled time
-  When an event outside of GitHub occurs
+Using events from GitHub
+At a scheduled time
+When an event outside of GitHub occurs
